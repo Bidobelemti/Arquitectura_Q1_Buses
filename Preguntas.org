@@ -1,0 +1,31 @@
+#+latex_class: article
+#+latex_class_options:
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle:
+#+latex_compiler: pdflatex
+#+date: \today
+
+
+#+title: Preguntas Q1
+#+date: <2024-06-24>
+#+author: Grupo Q1
+#+email: 
+#+language: es
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 27.1 (Org mode 9.3)
+
+* Preguntas Exposición Buses
+
+- ¿Qué función cumplen los buses del sistema en una arquitectura de computadoras y cuáles son los tipos más comunes que se utilizan en la actualidad?
+
+- ¿Cómo influye la velocidad y el ancho de banda del bus del sistema en el rendimiento general de un sistema informático y cómo se optimiza este componente en diseños modernos?
+
+- ¿Cuáles son los principales desafíos técnicos y de diseño al implementar buses del sistema en sistemas multiprocesador o en entornos de computación distribuida?
+
+- ¿Qué diferencias y similitudes existen entre los buses del sistema utilizados en computadoras personales y en servidores de alta gama?
+
+- ¿Cuál es el papel del bus del sistema en la escalabilidad de un sistema informático y cómo puede afectar la capacidad de expansión y actualización de hardware en el futuro?
